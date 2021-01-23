@@ -1,0 +1,3 @@
+portfolio link(frontend) : https://raviyadav-portfolio.netlify.app/
+backend : https://raviyadav-portfolio.herokuapp.com/
+Collected data log : https://raviyadav-portfolio.herokuapp.com/entries
